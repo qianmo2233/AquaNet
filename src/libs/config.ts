@@ -1,9 +1,9 @@
 
-export const AQUA_HOST = 'https://aquadx.net/aqua'
+export const AQUA_HOST = 'https://aqua.meow0.fun/aqua'
 export const DATA_HOST = 'https://aquadx.net'
 
 // This will be displayed for users to connect from the client
-export const AQUA_CONNECTION = 'aquadx.hydev.org'
+export const AQUA_CONNECTION = 'allnet.meow0.fun'
 
 export const TURNSTILE_SITE_KEY = '0x4AAAAAAASGA2KQEIelo9P9'
 export const DISCORD_INVITE = 'https://discord.gg/FNgveqFF7s'
